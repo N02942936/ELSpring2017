@@ -1,2 +1,5 @@
 # ELSpring2017
-Template for Spring 2017 Embedded Linux class This is a template for students to clone for their work in the class. You should maintain the directory structure
+Stephanie Fernandez 
+N02942936
+
+Spring 2017 Embedded Linux class template for students to clone for the class work. The directory structure should be maintained. 

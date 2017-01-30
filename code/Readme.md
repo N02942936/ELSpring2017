@@ -1,2 +1,5 @@
 # Code Directory. 
-All your code should go here. Make sure files are named as explicitly as possible.
+Stephanie Fernandez 
+N02942936
+
+Code goes here with explicit file names. 

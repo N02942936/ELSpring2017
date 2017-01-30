@@ -1,2 +1,5 @@
 ## A directory for misellaneous stuff. 
-Nothing really relevant should be here!
+Stephanie Fernandez 
+N02942936
+
+Nothing important should be here. 
